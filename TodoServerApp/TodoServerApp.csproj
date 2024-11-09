@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-TodoServerApp-968f23ad-1319-4c68-a9bf-758e54213c05</UserSecretsId>
+    <UserSecretsId>aspnet-TodoServerApp-232a3deb-e9d6-4320-96f2-f9a00723affb</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
